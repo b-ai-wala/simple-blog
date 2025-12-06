@@ -51,7 +51,7 @@ Now for our sake, the journey of the user started when he/she registered on the 
 
 However t won’t be a constant number for all the users, it will vary from user to user.
 
-![](/images/time to convert.png)
+![](/images/time-to-convert.png)
 
 Now your practical sense comes to test, to determine, what is the time t# by which you have a considerable number of users that were to convert, would have converted. In order to arrive at the number scientifically, you can deploy a few acceptable techniques
 
@@ -154,7 +154,7 @@ Pros and Cons of Time bound 1st Click attribution models
 
 We started with the same data, but we saw a major variation in the CAC across channels. This is exactly where being mindful of the attribution models being used, helps the growth marketing teams in achieving the desired CAC and scale from every channel.
 
-![](/images/1st-Click-Attribution-60-days-moving-window-for-attribution-and-Last-Click-Attribution.png) ![](/images/Contribution of Transacting Users by Channel vs Attribution Methodology.png)
+![](/images/1st-Click-Attribution-60-days-moving-window-for-attribution-and-Last-Click-Attribution.png) ![](/images/Contribution-of-Transacting-Users-by-Channel-vs-Attribution-Methodology.png)
 
 * * *
 

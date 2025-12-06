@@ -39,7 +39,7 @@ Typically performance channels have a good performance but they offer limited re
 
 Typically Larger Media like TV, Print, Radio, etc offer far larger reach at a much cheaper cost when your scale is huge.
 
-![](/images/Impressions vs Reach.png)
+![](/images/Impressions-vs-Reach.png)
 
 To conclude this, if say your sole reason for running brand marketing is to acquire more users then the only measure of success is the lift in Organic Acquisitions while the campaigns are running. Time series analysis with a defined attribution window is also undertaken to be more precise.
 
@@ -88,7 +88,7 @@ If you have a precedent for the impact of a brand campaign leading to acquisitio
 
 ## All the Marketing Budgets in a nutshell
 
-![4 Types of Marketing Budgets](/images/Marketing Budget Revised.png)
+![4 Types of Marketing Budgets](/images/Marketing-Budget-Revised.png)
 
 There are broadly 4 categories of Marketing Budget, and here’s how you measure the effectiveness of each one of them
 

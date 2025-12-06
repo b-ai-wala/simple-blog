@@ -5,7 +5,7 @@ date: "2022-10-18T01:03:21+05:30"
 
 In 2015, Google studied the search behavior of Internet users and published an interesting article called “4 New Moments – Every Marketer Should Know”. The article categorizes the search behavior of today’s consumers into 4 major buckets and holds cues to possibly what the users intended to do when they started their search on Google.
 
-![](/images/Google 4 Key Moments.png)
+![](/images/Google-4-Key-Moments.png)
 
 [Source: 4-new-moments-every-marketer-should-know/](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/4-new-moments-every-marketer-should-know/)
 
@@ -13,7 +13,7 @@ These 4 Key moments are so basic that every product relies on at least one of th
 
 Next, let me tell you about another interesting book that came out in 2014, called “**The Power of Habit** ” written by renowned business journalist **Charles Duhigg**. Duhigg builds on a framework that was discovered by **MIT Researchers** when they were trying to decipher, **“what are the building blocks of a Habit?”**
 
-![](/images/The Habit Loop.png)
+![](/images/The-Habit-Loop.png)
 
 [More on Charles Duhigg and The Power of Habit](https://charlesduhigg.com/how-habits-work/)
 
@@ -25,13 +25,13 @@ This loop which is called the Habit Loop, holds many answers for why some produc
 
 ## Part 1 – Cue – The need for the Product arises here
 
-![](/images/Cue and 4 Moments.png)
+![](/images/Cue-and-4-Moments.png)
 
 Some of the best brands understand the need of the customer very clearly. There is little that can be done to generate the need, but there is a lot possible to do to position yourself as someone who can fulfill those needs.
 
 ## Part 2 – Routine – The first step to get the need fulfilled
 
-![](/images/Routine and Platform vs Search.png)
+![](/images/Routine-and-Platform-vs-Search.png)
 
 There is a fundamental divide that happens in this step. Let’s assume you are in the business of selling car insurance, now the user who is in the moment – “**I want to BUY car insurance** ” will start their journey in 
 
@@ -66,15 +66,15 @@ There are 3 things that you can do to help improve your chances such that the cu
      3. **An offer or two once in a while** – Everyone loves discounts (especially in India we call it – “THEEK SE LAGANA”). Most savvy users remember that you offered them a discount for being a regular, and keep coming back.
      4. **Don’t overdo it** – Whatever your communication strategy, draw a line, ultimately users are not going to buy something from you just because you can send them notifications 10 times a day. But they can very well, burn the bridges if you continue to nudge them beyond reasonable limits.
 
-![](/images/Hack into Routine.png)
+![](/images/Hack-into-Routine.png)
 
 ## Part 3 – Reward – The final step – Deliver what you promised in the Positioning
 
-![](/images/Reward and Succes with the Need.png)
+![](/images/Reward-and-Succes-with-the-Need.png)
 
 Once you have cracked the code for getting the routine started on your platform, then this last step will ensure that you keep the users hooked onto the platform for your particular use case. Let’s look at it graphically
 
-![](/images/Loop Part 1.png) ![](/images/Loop Part 2.png) ![](/images/Loop Part 3.png)
+![](/images/Loop-Part-1.png) ![](/images/Loop-Part-2.png) ![](/images/Loop-Part-3.png)
 
 So setting a default behavior for the users is a matter of delivering a great experience and staying true to the initial value proposition.
 
@@ -95,17 +95,17 @@ Now let’s look at some of the Indian Startup case studies to understand this p
 
 ### **ZOMATO for Food Delivery**
 
-![](/images/Zomato Loop A.png)The Google Search Loop
+![](/images/Zomato-Loop-A.png)The Google Search Loop
 
 **vs**
 
-![](/images/Zomato Loop B.png)The Zomato Loop
+![](/images/Zomato-Loop-B.png)The Zomato Loop
 
 The key differences between the 2 loops lie in the fact that the Zomato loop is much faster with a lesser number of steps and offers higher predictability on the entire experience. Even if the user starts their initial journey on Google, they will not switch back to Google once they have experienced the Zomato loop.
 
 ### **OYO for Hotel Bookings**
 
-![](/images/OYO Loop A.png)
+![](/images/OYO-Loop-A.png)
 
 **vs**
 
@@ -115,11 +115,11 @@ The key differences between the 2 loops lie in the fact that the OYO loop is muc
 
 ### **Amazon for buying Shoes** **(or anything for that matter)**
 
-![](/images/Amazon Loop A.png)
+![](/images/Amazon-Loop-A.png)
 
 **vs**
 
-![](/images/Amazon Loop B.png)
+![](/images/Amazon-Loop-B.png)
 
 The key differences between the 2 loops lie in the fact that the Amazon loop is much faster with a lesser number of steps and offers higher predictability on the entire experience. Even if the user starts their initial journey on Google, they will not switch back to Google once they have experienced the Amazon loop – Reason
 

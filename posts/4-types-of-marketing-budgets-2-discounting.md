@@ -11,11 +11,11 @@ date: "2022-09-02T01:27:37+05:30"
 
 The most important KPI for discounting-related spending is Incremental ROI (or Incremental revenue per incremental unit cost)
 
-![](/images/Discount vs Transactions.png)Typical behavior of Price vs Number of Transactions. Similar behavior can be expected for conversion.
+![](/images/Discount-vs-Transactions.png)Typical behavior of Price vs Number of Transactions. Similar behavior can be expected for conversion.
 
 ### **Types of Discounts that are commonly used**
 
-![](/images/Discount Group.png)Typical Discount Categories
+![](/images/Discount-Group.png)Typical Discount Categories
 
   1. **New User Discount** – Typically given to a user who is new to the platform.
   2. **Specific Item-related Discount** – Typically an additional price reduction, is given on select merchandise that is either not selling or offered for the first time
@@ -36,7 +36,7 @@ In order to set up the performance measurement, you need to identify the atomic 
   4. Discount Amount or %age
   5. Base Price
 
-![](/images/Atomic Unit.png)
+![](/images/Atomic-Unit.png)
 
 > Atomic Unit = Combination of (Objective, Segment, Supply, Discount, Base Price)
 
@@ -61,13 +61,13 @@ To measure the performance in absolute terms, typically you would want to determ
 
 Incremental ROI = (Revenue Test – Revenue Control ) / (Cost Test – Cost Control )
 
-![](/images/ROI Equation.png) ![](/images/Discount vs ROI v3.png)Typical Behavior of Discounts vs Incremental Revenue
+![](/images/ROI-Equation.png) ![](/images/Discount-vs-ROI-v3.png)Typical Behavior of Discounts vs Incremental Revenue
 
 Ideally, every discount should have enough run time and iterations to find their own maxima. Next, a comparison is made across the optima of every discounting budget to identify a relative winner across multiple possible discount offers.
 
 One callout – New user discounts need to be seen in the context of future cash flows that the Customer is likely to bring in. Hence, even if new user discounts provide lower incremental ROI compared to repeat user discounts, one needs to consider the user LTV in the overall calculations.
 
-![](/images/Discount vs ROI v2.png)Typical discounts compared wrt performance for one objective say revenue
+![](/images/Discount-vs-ROI-v2.png)Typical discounts compared wrt performance for one objective say revenue
 
 [Reference for Confidence Calculation and Theory ](https://www.surveysystem.com/signif.htm)if you want to know about calculating significance calculation in detail.
 
@@ -94,11 +94,11 @@ If you haven’t read my article about the Acquisition Budget – You can find i
 
 **Next, let’s look at the third category of the Marketing Budget – Reactivation+Engagement Budget. Coming Soon…**
 
-![](/images/Marketing Budget Revised.png)4 Types of Marketing Budgets
+![](/images/Marketing-Budget-Revised.png)4 Types of Marketing Budgets
 
 * * *
 
-![](/images/Burhan Photo Main-compressed.jpg)
+![](/images/Burhan-Photo-Main-compressed.jpg)
 
 burhanuddin.pithawala
 

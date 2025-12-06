@@ -5,7 +5,7 @@ date: "2022-08-10T01:52:52+05:30"
 
 * * *
 
-![](/images/Growth Blindspot Logo.png)Growth BlindSpot — What it is and How to Avoid
+![](/images/Growth-Blindspot-Logo.png)Growth BlindSpot — What it is and How to Avoid
 
 ### Justice is Blind, Growth Marketing should not be
 
@@ -26,7 +26,7 @@ When you are growing a company — there is little time to share what you know w
 
 PACT — the 4 Data Silos
 
-![](/images/Team wise Data Silo.png)PACT — Typical Data Silos that exist in every Startup
+![](/images/Team-wise-Data-Silo.png)PACT — Typical Data Silos that exist in every Startup
 
   * Product
   * Acquisition
@@ -39,13 +39,13 @@ Let’s look at each of the Data Silo in little more detail
 
 #### A. Transactions Data (or should we call it Business Data)
 
-![](/images/Transaction Data.png)Transactions Data also called Business Data
+![](/images/Transaction-Data.png)Transactions Data also called Business Data
 
 This is usually considered the most important information you have at a company level. Business teams rely on the above for setting the direction, business planning, budgetary planning, etc. Primarily Transactions Data is based on one key identifier — **User Identity.** _(User Identity also calls for defining a user, depending on the business it could be a consumer, an account, or another company with multiple sub-users)_. This usually sits within your Company’s Database in the basic form of tables either in RDBMS (relational database management system) or distributed file systems like Hive.
 
 #### B. Customer Engagement Data (or CRM-related info)
 
-![](/images/CRM Engagement.png)CRM or Customer Engagement Data
+![](/images/CRM-Engagement.png)CRM or Customer Engagement Data
 
 Customer Engagement Data usually evolves as the very second piece of information beyond business which you need to keep a business running. All your support requests, customer interactions, post sales queries, customer feedback, and tickets sit here. For a business to deliver a smooth customer experience, this becomes vital. While this is pretty important from Day 1, typically it evolves parallel to business data, because of very different use cases involved. The primary identifier is still based on the User ID.
 
@@ -57,7 +57,7 @@ This data is either on one of the platforms
 
 #### C. Acquisition Data (or Marketing related info)
 
-![](/images/Acquisition Data.png)Acquisition or Marketing Data
+![](/images/Acquisition-Data.png)Acquisition or Marketing Data
 
 Acquisition Data starts to evolve as soon as basic marketing or growth activities start to take their feet. While both Transaction data and Customer Experience data typically evolve internally, Acquisition Data typically relies on some major Advertising Channels (i.e. Google, FB, etc.) for one reason. These platforms offer pretty holistic reporting frameworks to begin with, which serves most of the use cases. The only exception to this is Referral or Organic Marketing. (Typically referral marketing requires an internal analytics approach as its a product built in-house, however with the advent of referral marketing SAAS platforms, this may change in the future)
 
@@ -65,7 +65,7 @@ The biggest challenge in Acquisition Data is that it’s generated and distribut
 
 #### D. Product Usage Data
 
-![](/images/Product Usage Data.png)Product Usage Data
+![](/images/Product-Usage-Data.png)Product Usage Data
 
 As the name explains, this refers to how users are using and interacting with your product. This is a fairly evolved space and various analytics tools support the basic use cases encountered by most teams and products. To name a few —
 
@@ -76,7 +76,7 @@ As the name explains, this refers to how users are using and interacting with yo
 
 ### Putting it all together — Map of Customer Data
 
-![](/images/Customer Single View.png)PACT — 4 Data Silos and the typical metrics which sometimes help in crossing from one to another
+![](/images/Customer-Single-View.png)PACT — 4 Data Silos and the typical metrics which sometimes help in crossing from one to another
 
 ### The Case for “Customer Single View”
 
@@ -90,7 +90,7 @@ As the name explains, this refers to how users are using and interacting with yo
   4. Once you have the CSV Table Structure in Place, you will have two kinds of attributes — **Static and Dynamic.** As the name signifies, Static attributes house static values, which don’t change over a user’s lifetime, ex: Date of Birth of Customer, Primary Source of Acquisition on 1st Signup, etc. Dynamic attributes house stuff that can change, ex: Last Activity Date, Last Order Value, etc. Your Analytics team will have to have a plan in place for keeping the CSV Table updated for the Dynamic and Static parts with a proper regimen.
   5. **Finally, the success of CSV depends on its Company-wide adoption.**
 
-![Growth Blind Spot - Customer Single View](/images/Group 22.png)CSV in its completed form — A guide map
+![Growth Blind Spot - Customer Single View](/images/Group-22.png)CSV in its completed form — A guide map
 
 #### How will you make a large number of teams (if not every team) use it? Some approaches.
 
@@ -126,7 +126,7 @@ References:
 
 * * *
 
-![](/images/Burhan Photo Main-compressed.jpg)
+![](/images/Burhan-Photo-Main-compressed.jpg)
 
 burhanuddin.pithawala
 
