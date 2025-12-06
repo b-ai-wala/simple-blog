@@ -3,7 +3,7 @@ title: "The 4 Types of Marketing Budgets and how to measure if they are working 
 date: "2022-09-18T01:07:05+05:30"
 ---
 
-![Brand Marketing ](/images/pexels-pixabay-270859.jpeg)![Brand Marketing ](/images/pexels-pixabay-270859.jpeg)
+![Brand Marketing ](/images/pexels-pixabay-270859.jpeg)
 
 This is the penultimate part of the series, and here I want to cover the area where there is more subjectivity and context involved than in the previous 3 marketing budgets. Rather than making it a long story, I have tried to answer some questions that cross our minds when we hear the word “brand marketing”.
 
@@ -29,7 +29,7 @@ If you want performance then run performance marketing or channels within that c
 
 ## Can Brand Marketing help in Acquisitions?
 
-![](/images/Screenshot-2022-08-27-at-1.44.30-AM.png)![](/images/Screenshot-2022-08-27-at-1.44.30-AM.png)Example: Keyword Volume for a search term “Shampoo” using Moz.com
+![](/images/Screenshot-2022-08-27-at-1.44.30-AM.png)Example: Keyword Volume for a search term “Shampoo” using Moz.com
 
 Typically performance channels have a good performance but they offer limited reach for certain use cases. Even a popular category such as “Shampoo” has less than 2K Monthly searches. Now it is evident from the above table that if you were in the market to sell shampoo, then you would need to enhance your reach beyond the performance channels. In such a case the companies have to resort to 
 
@@ -39,7 +39,7 @@ Typically performance channels have a good performance but they offer limited re
 
 Typically Larger Media like TV, Print, Radio, etc offer far larger reach at a much cheaper cost when your scale is huge.
 
-![](/images/Impressions vs Reach.png)![](/images/Impressions vs Reach.png)
+![](/images/Impressions vs Reach.png)
 
 To conclude this, if say your sole reason for running brand marketing is to acquire more users then the only measure of success is the lift in Organic Acquisitions while the campaigns are running. Time series analysis with a defined attribution window is also undertaken to be more precise.
 
@@ -88,7 +88,7 @@ If you have a precedent for the impact of a brand campaign leading to acquisitio
 
 ## All the Marketing Budgets in a nutshell
 
-![4 Types of Marketing Budgets](/images/Marketing Budget Revised.png)![4 Types of Marketing Budgets](/images/Marketing Budget Revised.png)
+![4 Types of Marketing Budgets](/images/Marketing Budget Revised.png)
 
 There are broadly 4 categories of Marketing Budget, and here’s how you measure the effectiveness of each one of them
 

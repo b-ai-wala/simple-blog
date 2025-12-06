@@ -5,7 +5,7 @@ date: "2022-08-10T01:43:30+05:30"
 
 * * *
 
-![](/images/kermit-worried.gif)![](/images/kermit-worried.gif)
+![](/images/kermit-worried.gif)
 
 When friends or founders reach out to me for growth ideas, usually I begin by asking what all growth channels they have already tried. What is startling, is that frequently Referral Marketing does not even exist in many startups’ growth agendas. This simple yet effective channel getting overlooked in so many companies is so bizarre, that it called for a post on “the value of referral for growing your users”. In parallel, I have also addressed some issues which frequently cause referral programs to fail.
 
@@ -27,20 +27,20 @@ There are many reasons but here’s my list of Top 3.
 
 ### Let us understand the basic Anatomy of a Referral Program before we understand where it fails
 
-![](/images/Group 10.png)![](/images/Group 10.png)There are 2 main players in any referral program
+![](/images/Group 10.png)There are 2 main players in any referral program
 
 > First things First, Treat A and B as 2 separate buckets with separate product journeys, motivations, incentives, flows etc etc. Hence if you have a program addressing only either A **or** B, it will not reach full potential.
 
 Let’s break A and B further to understand their journeys and interactions
 
-![](/images/A new.png)![](/images/A new.png)Typical interactions of Existing Users on Platform with Referral Programs
+![](/images/A new.png)Typical interactions of Existing Users on Platform with Referral Programs
 
 Critical failure points to watch out for in bucket A
 
   * If x<10%, work on program visibility, communication, incentives, or all of them
   * If y<10%, then increase program incentive and/or revisit Referral UX
 
-![](/images/B New.png)![](/images/B New.png)Typical interactions of Guest Users with Referral Programs
+![](/images/B New.png)Typical interactions of Guest Users with Referral Programs
 
 Critical failure points to watch out for in bucket B
 
@@ -57,13 +57,13 @@ While what we laid out so far is very basic, it still qualifies to be checked be
 
 #### 1\. Most Programs don’t actually lead to user win [Metric — %of users winning / users initiating Referral]
 
-![](/images/Graph of Winners.png)![](/images/Graph of Winners.png)Graph — Ratio of Users Winning vs Referral Reach
+![](/images/Graph of Winners.png)Graph — Ratio of Users Winning vs Referral Reach
 
 The Metric to track here is how many users who participate in your program actually win something. A startling number of products relish in the fact that their CAC is low when in reality a large number of users who participate in referrals don’t ever win. If you have a Win Ratio of less than 10%, the program will fail to get traction as 90%+ users would have not got any incentive for their work.
 
 #### 2\. Time to win is Dead Long [Metric — Time between users initiating Referral invite and users receiving the promised reward]
 
-![](/images/Graph of Win Time.png)![](/images/Graph of Win Time.png)Graph — Time to receive referral reward vs Referral Reach
+![](/images/Graph of Win Time.png)Graph — Time to receive referral reward vs Referral Reach
 
 Users today seek instant gratification, therefore it is mission-critical to understand how to make the user win fast. Another factor is that the majority of users typically go through the same emotions when either they are waiting vs when they are not winning. The wait develops distrust of the program. Hence winning fast is as crucial as winning itself. In my experience,
 
@@ -72,7 +72,7 @@ Users today seek instant gratification, therefore it is mission-critical to unde
 
 #### 3\. User Base is exhausted [Metric — %of the overall user base that has already been exposed to / participated in Referral Program]
 
-![](/images/Graph of First time users.png)![](/images/Graph of First time users.png)Graph — Users age on Referral Program vs Probability to refer further
+![](/images/Graph of First time users.png)Graph — Users age on Referral Program vs Probability to refer further
 
 This is a late-stage problem and typically every company faces it sooner or later, when the existing base has already been exposed to the referral program long enough and is not able to generate new referrals. This means the program either stays at the same level or declines to a reduced stable state. Herein lies the key question which can unlock the growth
 
@@ -99,7 +99,7 @@ In conclusion, remember these 5 Points for designing a great referral program
 
 * * *
 
-![](/images/Burhan Photo Main-compressed.jpg)![](/images/Burhan Photo Main-compressed.jpg)
+![](/images/Burhan Photo Main-compressed.jpg)
 
 burhanuddin.pithawala
 
