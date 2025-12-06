@@ -105,8 +105,3 @@ burhanuddin.pithawala
 
 AI Leader & Growth Marketing Strategist. Currently heading AI Business at InterviewKickstart, transforming learning for thousands through AI-powered education. Ex Global Head of Marketing at OYO and Ex Growth Marketing Leader at HealthPlix. Helping startups crack growth through data-driven marketing, product strategy, and AI transformation.
 
-Email(required)
-
-Subscribe here for an occasional email from me whenever I publish a new note on growth, marketing, and analytics.
-
-Subscribe to Growth Notes by Burhan
