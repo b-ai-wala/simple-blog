@@ -42,7 +42,7 @@ In order to set up the performance measurement, you need to identify the atomic 
 
 Now, Total Discount Budget = Sum of all the discounts in operation
 
-![{\\displaystyle \\sum _{i\\mathop {=} m}^{n}a_{i}=a_{m}+a_{m+1}+a_{m+2}+\\cdots +a_{n-1}+a_{n}}](https://web.archive.org/web/20220901195746im_/https://wikimedia.org/api/rest_v1/media/math/render/svg/8c8461090bf2c187f304e8f3c3ade683c197f397)![{\\displaystyle \\sum _{i\\mathop {=} m}^{n}a_{i}=a_{m}+a_{m+1}+a_{m+2}+\\cdots +a_{n-1}+a_{n}}](https://web.archive.org/web/20220901195746im_/https://wikimedia.org/api/rest_v1/media/math/render/svg/8c8461090bf2c187f304e8f3c3ade683c197f397)
+![{\\displaystyle \\sum _{i\\mathop {=} m}^{n}a_{i}=a_{m}+a_{m+1}+a_{m+2}+\\cdots +a_{n-1}+a_{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8c8461090bf2c187f304e8f3c3ade683c197f397)![{\\displaystyle \\sum _{i\\mathop {=} m}^{n}a_{i}=a_{m}+a_{m+1}+a_{m+2}+\\cdots +a_{n-1}+a_{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8c8461090bf2c187f304e8f3c3ade683c197f397)
 
 **How to measure the performance of a defined atomic unit, say ‘a** ‘
 
@@ -69,7 +69,7 @@ One callout – New user discounts need to be seen in the context of future cash
 
 ![](/images/Discount vs ROI v2.png)![](/images/Discount vs ROI v2.png)Typical discounts compared wrt performance for one objective say revenue
 
-[Reference for Confidence Calculation and Theory ](https://web.archive.org/web/20220901195746/https://www.surveysystem.com/signif.htm)if you want to know about calculating significance calculation in detail.
+[Reference for Confidence Calculation and Theory ](https://www.surveysystem.com/signif.htm)if you want to know about calculating significance calculation in detail.
 
 ### How often should you measure the performance of Discounting Budgets?
 
@@ -90,7 +90,7 @@ Another technique utilized is to keep a certain segment of users in control all 
 
 If you haven’t read my article about the Acquisition Budget – You can find it here.
 
-> [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)
+> [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)
 
 **Next, let’s look at the third category of the Marketing Budget – Reactivation+Engagement Budget. Coming Soon…**
 
@@ -110,51 +110,51 @@ Growth Marketing Leader, Startup Growth Practitioner, Advisor to Startups on Gro
 
 ### acquisition marketing
 
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)
 
 ### customer lifetime value
 
-  * [Why Growth Marketing teams need a Customer SingleÂ?View](https://web.archive.org/web/20220901195746/https://bpitha.com/customer-single-view/)
+  * [Why Growth Marketing teams need a Customer SingleÂ?View](/posts/growth-marketing-blind-spot-customer-single-view)
 
 ### customer single view
 
-  * [Why Growth Marketing teams need a Customer SingleÂ?View](https://web.archive.org/web/20220901195746/https://bpitha.com/customer-single-view/)
+  * [Why Growth Marketing teams need a Customer SingleÂ?View](/posts/growth-marketing-blind-spot-customer-single-view)
 
 ### discounting
 
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-2-4-discounting-budget/)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](/posts/4-types-of-marketing-budgets-2-discounting)
 
 ### growth marketing
 
-  * [3 Reasons why Referral Marketing is not working for your Product /Â?Startup](https://web.archive.org/web/20220901195746/https://bpitha.com/3-reasons-why-referral-marketing-is-not-working-for-your-product-startup/)
-  * [Why Growth Marketing teams need a Customer SingleÂ?View](https://web.archive.org/web/20220901195746/https://bpitha.com/customer-single-view/)
-  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](https://web.archive.org/web/20220901195746/https://bpitha.com/marketing-with-zero-budget/)
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-2-4-discounting-budget/)
+  * [3 Reasons why Referral Marketing is not working for your Product /Â?Startup](/posts/3-reasons-why-referral-marketing-is-not-working)
+  * [Why Growth Marketing teams need a Customer SingleÂ?View](/posts/growth-marketing-blind-spot-customer-single-view)
+  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](/posts/marketing-with-zero-budget)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](/posts/4-types-of-marketing-budgets-2-discounting)
 
 ### marketing analytics
 
-  * [Why Growth Marketing teams need a Customer SingleÂ?View](https://web.archive.org/web/20220901195746/https://bpitha.com/customer-single-view/)
+  * [Why Growth Marketing teams need a Customer SingleÂ?View](/posts/growth-marketing-blind-spot-customer-single-view)
 
 ### marketing budget
 
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-2-4-discounting-budget/)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](/posts/4-types-of-marketing-budgets-2-discounting)
 
 ### marketing channel mix
 
-  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](https://web.archive.org/web/20220901195746/https://bpitha.com/marketing-with-zero-budget/)
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-2-4-discounting-budget/)
+  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](/posts/marketing-with-zero-budget)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget](/posts/4-types-of-marketing-budgets-2-discounting)
 
 ### Referral Marketing
 
-  * [3 Reasons why Referral Marketing is not working for your Product /Â?Startup](https://web.archive.org/web/20220901195746/https://bpitha.com/3-reasons-why-referral-marketing-is-not-working-for-your-product-startup/)
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](https://web.archive.org/web/20220901195746/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)
+  * [3 Reasons why Referral Marketing is not working for your Product /Â?Startup](/posts/3-reasons-why-referral-marketing-is-not-working)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)
 
 ### Referral Product Failure Modes
 
-  * [3 Reasons why Referral Marketing is not working for your Product /Â?Startup](https://web.archive.org/web/20220901195746/https://bpitha.com/3-reasons-why-referral-marketing-is-not-working-for-your-product-startup/)
+  * [3 Reasons why Referral Marketing is not working for your Product /Â?Startup](/posts/3-reasons-why-referral-marketing-is-not-working)
 
 ### zero marketing budget strategy
 
-  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](https://web.archive.org/web/20220901195746/https://bpitha.com/marketing-with-zero-budget/)
+  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](/posts/marketing-with-zero-budget)

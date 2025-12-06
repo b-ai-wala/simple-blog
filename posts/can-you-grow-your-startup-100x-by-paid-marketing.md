@@ -46,7 +46,7 @@ While most of the ideas we discussed, in the beginning, lie in the blue circle a
 
 While we all have been brought up (read trained) to think of growth in terms of the funnel on left. But it makes absolute sense to also traverse the path reverse for your power users, especially if you are a small company. The same has been deployed by most successful companies when they were small, and before they had Big money to spend on Marketing. The same concept is explained beautifully in this article by 
 
-[Brian Balfour](https://web.archive.org/web/20220914071546/https://medium.com/u/cae0f48dccf6?source=post_page-----c8066931a062--------------------------------)— [Growth Loops are the New Funnels](https://web.archive.org/web/20220914071546/https://www.reforge.com/blog/growth-loops)
+[Brian Balfour](https://medium.com/u/cae0f48dccf6?source=post_page-----c8066931a062--------------------------------)— [Growth Loops are the New Funnels](https://www.reforge.com/blog/growth-loops)
 
 ## Invest in things that will give you definite returns over things that you just think will work.
 

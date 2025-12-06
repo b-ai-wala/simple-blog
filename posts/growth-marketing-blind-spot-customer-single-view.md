@@ -115,14 +115,14 @@ Feel free to share with me in the comments if you have experienced some of the t
 
 **Credits:**
 
-[Arun Kumar](https://web.archive.org/web/20220809202302/https://www.linkedin.com/in/arun-kumar-07b1886/), [Arpit Srivastav](https://web.archive.org/web/20220809202302/https://www.linkedin.com/in/srivaarpit/) — For showing it 1st Hand how it is done, and for reviewing this story so it is easy to understand, yet explains the key concepts
+[Arun Kumar](https://www.linkedin.com/in/arun-kumar-07b1886/), [Arpit Srivastav](https://www.linkedin.com/in/srivaarpit/) — For showing it 1st Hand how it is done, and for reviewing this story so it is easy to understand, yet explains the key concepts
 
-[Madan Rawtani](https://web.archive.org/web/20220809202302/https://medium.com/u/efc4075f6d9a) for always patiently reviewing and nudging to bring out the best stories that will be useful for the growth marketers out there.
+[Madan Rawtani](https://medium.com/u/efc4075f6d9a) for always patiently reviewing and nudging to bring out the best stories that will be useful for the growth marketers out there.
 
 References:
 
-  1. [UUID](https://web.archive.org/web/20220809202302/https://en.wikipedia.org/wiki/Universally_unique_identifier)
-  2. [Best practices for UID](https://web.archive.org/web/20220809202302/https://segment.com/docs/connections/spec/best-practices-identify)
+  1. [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)
+  2. [Best practices for UID](https://segment.com/docs/connections/spec/best-practices-identify)
 
 * * *
 

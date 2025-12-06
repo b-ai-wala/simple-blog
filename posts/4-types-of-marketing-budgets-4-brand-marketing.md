@@ -80,7 +80,7 @@ Usually for larger firms with significant revenue, <2% of the revenue is re-inve
 
 For smaller companies with a smaller revenue base, <2% may be too insignificant. At the same time while you are small, then Marketing Budgets 1, 2, and 3 are appropriate and will result in more uptick. It is not uncommon to see 10% of the total budget in 1, 2, and 3 put together being allocated for brand initiatives.
 
-( [Marketing Budget 1 – Acquisition Budget](https://web.archive.org/web/20220920232205/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/), [Marketing Budget 2 – Discounting Budget](https://web.archive.org/web/20220920232205/https://bpitha.com/the-4-types-of-marketing-budgets-2-4-discounting-budget/), [Marketing Budget 3 – CRM Budget](https://web.archive.org/web/20220920232205/https://bpitha.com/the-4-types-of-marketing-budgets-3-4-crm-budget/))
+( [Marketing Budget 1 – Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition), [Marketing Budget 2 – Discounting Budget](/posts/4-types-of-marketing-budgets-2-discounting), [Marketing Budget 3 – CRM Budget](/posts/the-4-types-of-marketing-budgets-3-4-crm-budget))
 
 ### For Acquisition Objectives
 
@@ -92,7 +92,7 @@ If you have a precedent for the impact of a brand campaign leading to acquisitio
 
 There are broadly 4 categories of Marketing Budget, and here’s how you measure the effectiveness of each one of them
 
-  1. **[Acquisition Budget](https://web.archive.org/web/20220920232205/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)** – Ability to acquire new users on the platform
-  2. **[Discounting Budget](https://web.archive.org/web/20220920232205/https://bpitha.com/the-4-types-of-marketing-budgets-2-4-discounting-budget/) **– Ability to improve revenue or conversion from a user
-  3. **[Activation / Engagement Budget](https://web.archive.org/web/20220920232205/https://bpitha.com/the-4-types-of-marketing-budgets-3-4-crm-budget/)** – Ability to to bring a user back to the platform and make them transact or engage
+  1. **[Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)** – Ability to acquire new users on the platform
+  2. **[Discounting Budget](/posts/4-types-of-marketing-budgets-2-discounting) **– Ability to improve revenue or conversion from a user
+  3. **[Activation / Engagement Budget](/posts/the-4-types-of-marketing-budgets-3-4-crm-budget)** – Ability to to bring a user back to the platform and make them transact or engage
   4. **Brand Budget** – Ability to solve a larger problem of Brand Perception or Acquire users when performance marketing has hit a ceiling.

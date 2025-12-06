@@ -7,7 +7,7 @@ In 2015, Google studied the search behavior of Internet users and published an i
 
 ![](/images/Google 4 Key Moments.png)![](/images/Google 4 Key Moments.png)
 
-[Source: 4-new-moments-every-marketer-should-know/](https://web.archive.org/web/20221017193327/https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/4-new-moments-every-marketer-should-know/)
+[Source: 4-new-moments-every-marketer-should-know/](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/4-new-moments-every-marketer-should-know/)
 
 These 4 Key moments are so basic that every product relies on at least one of them to drive the users to their platform or service be it 1st time or the nth time.
 
@@ -15,7 +15,7 @@ Next, let me tell you about another interesting book that came out in 2014, call
 
 ![](/images/The Habit Loop.png)![](/images/The Habit Loop.png)
 
-[More on Charles Duhigg and The Power of Habit](https://web.archive.org/web/20221017193327/https://charlesduhigg.com/how-habits-work/)
+[More on Charles Duhigg and The Power of Habit](https://charlesduhigg.com/how-habits-work/)
 
 This loop which is called the Habit Loop, holds many answers for why some products become a part of users’ habits and others don’t.
 
@@ -153,14 +153,14 @@ Products that fail to impress, lose their potential repeats to Google Search. Fo
 
 ### References / Resources for Further Reading 
 
-> [How Habits Work](https://web.archive.org/web/20221017193327/https://charlesduhigg.com/how-habits-work/)
+> [How Habits Work](https://charlesduhigg.com/how-habits-work/)
 
-[https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/](https://web.archive.org/web/20221017193327/https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/)
+[https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/](https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/)
 
-[https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/](https://web.archive.org/web/20221017193327/https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/)
+[https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/](https://www.thinkwithgoogle.com/marketing-strategies/search/consumer-needs-and-behavior/)
 
-[https://future.com/the-future-of-search-is-boutique/](https://web.archive.org/web/20221017193327/https://future.com/the-future-of-search-is-boutique/)
+[https://future.com/the-future-of-search-is-boutique/](https://future.com/the-future-of-search-is-boutique/)
 
-> [See-Think-Do: A Content, Marketing, Measurement Business Framework](https://web.archive.org/web/20221017193327/https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/)
+> [See-Think-Do: A Content, Marketing, Measurement Business Framework](https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/)
 
 Kunal Shah’s Delta 4 Strategy

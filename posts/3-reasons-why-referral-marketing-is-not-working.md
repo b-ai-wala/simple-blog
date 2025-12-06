@@ -23,7 +23,7 @@ There are many reasons but here’s my list of Top 3.
 
   * **It is cost-effective. In my experience, Referral Program CAC is usually 1/3rd to 1/2 of paid ads.** It can even be significantly lesser for a [great program, riding on a great product]. Also, you generally pay for performance that too as an in-app currency / closed wallet. Many good programs ensure payouts are linked to product usage milestones. As a result, payout incentivizes right behavior i.e higher product engagement.
   * You are paying your User Base and not the Big Ad Companies. This is perhaps a very big difference, which is hidden in plain sight. Typical startup teams spend 75–90% of the budget on Digital Marketing, which is more or less split 50:25:25 into the G:F: Others bucket. Referral offers a completely new way of growth that is more focused on a product’s power user networks and not “strangers bought on an auction”.
-  * **Scale can be very very high.** Referral programs usually scale exponentially unlike Ad platforms where scale is linear (usually proportional to budget). For more on this point, you can check out this Blog — [Viral growth Loops](https://web.archive.org/web/20220809201339/https://growsurf.com/blog/what-is-a-viral-loop)
+  * **Scale can be very very high.** Referral programs usually scale exponentially unlike Ad platforms where scale is linear (usually proportional to budget). For more on this point, you can check out this Blog — [Viral growth Loops](https://growsurf.com/blog/what-is-a-viral-loop)
 
 ### Let us understand the basic Anatomy of a Referral Program before we understand where it fails
 

@@ -14,7 +14,7 @@ But How do you measure what is working? This is where you need Attribution
 
 ## 3 Most widely used Attribution Methodologies
 
-Rather than me explaining the basics, [here is a detailed document for someone who loves details. ](https://web.archive.org/web/20220927030916/https://www.iab.com/wp-content/uploads/2016/10/Digital-Attribution-Primer-2-0-FINAL.pdf)(This article is a product of the working group led by – The Interactive Advertising Bureau (IAB) consisting of Advertising majors like Google, Inmobi, Criteo, Rakuten, Twitter, and more than 30 others)
+Rather than me explaining the basics, [here is a detailed document for someone who loves details. ](https://www.iab.com/wp-content/uploads/2016/10/Digital-Attribution-Primer-2-0-FINAL.pdf)(This article is a product of the working group led by – The Interactive Advertising Bureau (IAB) consisting of Advertising majors like Google, Inmobi, Criteo, Rakuten, Twitter, and more than 30 others)
 
 In summary, Attribution is the methodology that a company follows in order to determine which marketing channel, salesperson, or entity was responsible for getting a customer/user on your platform. There are majorly 3 attribution Models
 
@@ -70,7 +70,7 @@ This is a slightly convoluted one. As there are multiple options at every stage.
 
 Here we take a random data set and start debunking the last click model, the first click model, and the mixed models one by one.
 
-[Workbook for Attribution / Dataset for Practice](https://web.archive.org/web/20220927030916/https://docs.google.com/spreadsheets/d/1dn-QHDukA2CP0pfYcoWDSGf_vM41sra2jhlTQDYXOOo/edit#gid=2108564644) – To use this workbook (google sheet format), simply make a copy of the same in your Google drive.
+[Workbook for Attribution / Dataset for Practice](https://docs.google.com/spreadsheets/d/1dn-QHDukA2CP0pfYcoWDSGf_vM41sra2jhlTQDYXOOo/edit#gid=2108564644) – To use this workbook (google sheet format), simply make a copy of the same in your Google drive.
 
 **About The Dataset**
 
@@ -160,7 +160,7 @@ We started with the same data, but we saw a major variation in the CAC across ch
 
 References
 
-  1. [Workbook for the Exercise](https://web.archive.org/web/20220927030916/https://docs.google.com/spreadsheets/d/1dn-QHDukA2CP0pfYcoWDSGf_vM41sra2jhlTQDYXOOo/edit#gid=1960145924)
+  1. [Workbook for the Exercise](https://docs.google.com/spreadsheets/d/1dn-QHDukA2CP0pfYcoWDSGf_vM41sra2jhlTQDYXOOo/edit#gid=1960145924)
   2. https://www.iab.com/wp-content/uploads/2016/10/Digital-Attribution-Primer-2-0-FINAL.pdf
   3. https://en.wikipedia.org/wiki/Attribution_(marketing)
   4. https://blog.hubspot.com/marketing/attribution-reports-definition

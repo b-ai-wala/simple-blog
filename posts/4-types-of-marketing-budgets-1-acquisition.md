@@ -84,7 +84,7 @@ Once you enter this zone, the channel won’t be able to scale the traditional w
 
 ![](/images/Channels Comparison 1.png)![](/images/Channels Comparison 1.png)Typical Channel CAC and Scale Performance for an established category. Ex: Travel, E-Commerce ![](/images/Channels Comparison 2.png)![](/images/Channels Comparison 2.png)Typical Channel CAC and Scale Performance for a new category. Ex: Someone trying to build a niche service, say SPA for dogs, where not enough people know if it exists.
 
-No matter what is the category, typically a well-run referral program will always give better CAC than traditional marketing channels. [For more on Referral Program Dos and Donts – Check out my blog.](https://web.archive.org/web/20220830200634/https://bpitha.com/3-reasons-why-referral-marketing-is-not-working-for-your-product-startup/) **The only challenge with referral programs is scale, if you can crack that, then there is no limit to how fast you can grow.**
+No matter what is the category, typically a well-run referral program will always give better CAC than traditional marketing channels. [For more on Referral Program Dos and Donts – Check out my blog.](/posts/3-reasons-why-referral-marketing-is-not-working) **The only challenge with referral programs is scale, if you can crack that, then there is no limit to how fast you can grow.**
 
 * * *
 
@@ -102,8 +102,8 @@ Growth Marketing Leader, Startup Growth Practitioner, Advisor to Startups on Gro
 
 ### Uncategorized
 
-  * [3 Reasons why Referral Marketing is not working for your Product / Startup](https://web.archive.org/web/20220830200634/https://bpitha.com/3-reasons-why-referral-marketing-is-not-working-for-your-product-startup/)
-  * [Can You Grow Your Startup 100X by Paid Marketing ?￼](https://web.archive.org/web/20220830200634/https://bpitha.com/can-you-grow-your-startup-100x-by-paid-marketing/)
-  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](https://web.archive.org/web/20220830200634/https://bpitha.com/the-4-types-of-marketing-budgets-1-4-acquisition-budget/)
-  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](https://web.archive.org/web/20220830200634/https://bpitha.com/marketing-with-zero-budget/)
-  * [Why Growth Marketing teams need a Customer Single View](https://web.archive.org/web/20220830200634/https://bpitha.com/customer-single-view/)
+  * [3 Reasons why Referral Marketing is not working for your Product / Startup](/posts/3-reasons-why-referral-marketing-is-not-working)
+  * [Can You Grow Your Startup 100X by Paid Marketing ?￼](/posts/can-you-grow-your-startup-100x-by-paid-marketing)
+  * [The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget](/posts/4-types-of-marketing-budgets-1-acquisition)
+  * [What will happen to your Company – if you made the Marketing Budget “ZERO”](/posts/marketing-with-zero-budget)
+  * [Why Growth Marketing teams need a Customer Single View](/posts/growth-marketing-blind-spot-customer-single-view)

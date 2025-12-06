@@ -35,7 +35,7 @@ Typical ECommerce Example
 
 ### Putting the same into a google sheet for modeling.
 
-![](/images/Screenshot-2022-08-07-at-12.37.55-AM-1.png)![](/images/Screenshot-2022-08-07-at-12.37.55-AM-1.png)Model for Transactions over time from Users acquired in a specific month. M0 stands for same month, while M1 means month + 1 and so on. [Link to the Google Sheet for Modeling](https://web.archive.org/web/20220806201918/https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
+![](/images/Screenshot-2022-08-07-at-12.37.55-AM-1.png)![](/images/Screenshot-2022-08-07-at-12.37.55-AM-1.png)Model for Transactions over time from Users acquired in a specific month. M0 stands for same month, while M1 means month + 1 and so on. [Link to the Google Sheet for Modeling](https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
 
 Note: Highlighted in Orange – 110 in Jun is coming from respective previous month cohorts highlighted in Orange
 
@@ -50,11 +50,11 @@ Note: Highlighted in Orange – 110 in Jun is coming from respective previous mo
 
 ### Putting the same into our model, again
 
-![](/images/Screenshot-2022-08-07-at-1.24.55-AM.png)![](/images/Screenshot-2022-08-07-at-1.24.55-AM.png)Scenario 1: As shown above, Stable State when both organic and paid channels are on. Splitting the Contribution from Paid and Organic Sources. [Link to the Google Sheet for Modeling](https://web.archive.org/web/20220806201918/https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
+![](/images/Screenshot-2022-08-07-at-1.24.55-AM.png)![](/images/Screenshot-2022-08-07-at-1.24.55-AM.png)Scenario 1: As shown above, Stable State when both organic and paid channels are on. Splitting the Contribution from Paid and Organic Sources. [Link to the Google Sheet for Modeling](https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
 
 > Now lets turn off the Paid Channels from July and see what happens
 
-![](/images/Screenshot-2022-08-07-at-1.25.03-AM.png)![](/images/Screenshot-2022-08-07-at-1.25.03-AM.png)Scenario 2: Stable State when paid channels are switched off from Jul onwards. The new stable state slowly converges to (the rolling organic state + business from repeat usage of initial paid users) [Link to the Google Sheet for Modeling](https://web.archive.org/web/20220806201918/https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
+![](/images/Screenshot-2022-08-07-at-1.25.03-AM.png)![](/images/Screenshot-2022-08-07-at-1.25.03-AM.png)Scenario 2: Stable State when paid channels are switched off from Jul onwards. The new stable state slowly converges to (the rolling organic state + business from repeat usage of initial paid users) [Link to the Google Sheet for Modeling](https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
 
 ### New Trendline emerges which is a convergence to the rolling organic state + repeat usage of previously acquired paid users
 
@@ -75,4 +75,4 @@ If we make the marketing budget zero, the business will converge to the business
 
 * * *
 
-[Link to the Google Sheet for Modeling](https://web.archive.org/web/20220806201918/https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
+[Link to the Google Sheet for Modeling](https://docs.google.com/spreadsheets/d/1EE1g3vpd-DG1wKV73SHf045Wyc52g9zuskdVdK3CQoU/edit?usp=sharing)
