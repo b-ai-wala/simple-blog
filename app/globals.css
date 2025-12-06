@@ -34,6 +34,20 @@ header h1 {
 
 header p {
   color: #666;
+  margin-bottom: 1rem;
+}
+
+header p.intro {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+header p.subtitle {
+  font-size: 0.95rem;
+  color: #777;
+  font-style: italic;
   margin-bottom: 2rem;
 }
 

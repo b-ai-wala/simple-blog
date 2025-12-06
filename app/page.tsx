@@ -8,7 +8,13 @@ export default function Home() {
     <main className="container">
       <header>
         <h1>Burhanuddin Pithawala</h1>
-        <p>Notes on Growth and Marketing for Startups in India</p>
+        <p className="intro">
+          AI Leader & Growth Marketing Strategist. Currently heading AI Business at InterviewKickstart,
+          transforming learning for thousands through AI-powered education. Ex Global Head of Marketing at OYO
+          and Ex Growth Marketing Leader at HealthPlix. I help startups crack growth through data-driven marketing,
+          product strategy, and AI transformation.
+        </p>
+        <p className="subtitle">Practical insights on growth, marketing analytics, and building scalable systems.</p>
       </header>
 
       <section className="posts">
