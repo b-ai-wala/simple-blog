@@ -102,7 +102,7 @@ If you haven’t read my article about the Acquisition Budget – You can find i
 
 burhanuddin.pithawala
 
-Growth Marketing Leader, Startup Growth Practitioner, Advisor to Startups on Growth, Marketing, and Product Marketing. Currently, I Head Growth Marketing @HealthPlix. Earlier I was the Global Head of Marketing @OYO.
+AI Leader & Growth Marketing Strategist. Currently heading AI Business at InterviewKickstart, transforming learning for thousands through AI-powered education. Ex Global Head of Marketing at OYO and Ex Growth Marketing Leader at HealthPlix. Helping startups crack growth through data-driven marketing, product strategy, and AI transformation.
 
 * * *
 
