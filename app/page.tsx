@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <main className="container">
       <header>
-        <h1>Simple Blog</h1>
-        <p>A minimal markdown blog</p>
+        <h1>Burhanuddin Pithawala</h1>
+        <p>Notes on Growth and Marketing for Startups in India</p>
       </header>
 
       <section className="posts">
