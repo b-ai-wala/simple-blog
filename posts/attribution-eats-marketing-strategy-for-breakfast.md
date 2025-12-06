@@ -3,7 +3,7 @@ title: "Attribution eats Marketing Strategy for Breakfast"
 date: "2022-09-27T08:39:08+05:30"
 ---
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Breakfast.png?resize=900%2C601&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Breakfast.png?resize=900%2C601&ssl=1)
+![](/images/Breakfast.png)![](/images/Breakfast.png)
 
 It is rare to find a growth marketing team today that is not Data Driven. All the Marketing Strategies (specially in acquisitions) boil down to 2 decisions
 
@@ -22,7 +22,7 @@ In summary, Attribution is the methodology that a company follows in order to de
   2. Last Click Attribution
   3. Multi-Touch Attribution
 
-![3 types of attribution models - 1st click, last click and multi touch attribution](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/3-attribution-models-1.png?resize=458%2C474&ssl=1)![3 types of attribution models - 1st click, last click and multi touch attribution](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/3-attribution-models-1.png?resize=458%2C474&ssl=1)
+![3 types of attribution models - 1st click, last click and multi touch attribution](/images/3-attribution-models-1.png)![3 types of attribution models - 1st click, last click and multi touch attribution](/images/3-attribution-models-1.png)
 
 ## But you probably know this already. Real Attribution Challenges emerge in the real world – where things go wrong
 
@@ -41,7 +41,7 @@ Assume you are designing an attribution methodology for an App based business. T
   1. Register on the app
   2. Make a Purchase
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Stages-1.png?resize=900%2C300&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Stages-1.png?resize=900%2C300&ssl=1)
+![](/images/Stages.png)![](/images/Stages.png)
 
 > Decision Point: Apply attribution methodology on the right event. If you care about transactions then put it on transactions.
 
@@ -51,7 +51,7 @@ Now for our sake, the journey of the user started when he/she registered on the 
 
 However t won’t be a constant number for all the users, it will vary from user to user.
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/time-to-convert.png?resize=424%2C270&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/time-to-convert.png?resize=424%2C270&ssl=1)
+![](/images/time to convert.png)![](/images/time to convert.png)
 
 Now your practical sense comes to test, to determine, what is the time t# by which you have a considerable number of users that were to convert, would have converted. In order to arrive at the number scientifically, you can deploy a few acceptable techniques
 
@@ -88,13 +88,13 @@ Let’s look at how the funnel is doing across the 2 stages
 
 More Insights
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.09.33-AM.png?resize=834%2C218&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.09.33-AM.png?resize=834%2C218&ssl=1)
+![](/images/Screenshot-2022-09-23-at-1.09.33-AM.png)![](/images/Screenshot-2022-09-23-at-1.09.33-AM.png)
 
 ### 1st Click Attribution in Action
 
 We apply 1st Click attribution on the transactions and here’s what we get.
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/CAC-By-Channel-1st-Click-Attribution-2.png?resize=749%2C464&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/CAC-By-Channel-1st-Click-Attribution-2.png?resize=749%2C464&ssl=1) ![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.12.53-AM.png?resize=620%2C187&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.12.53-AM.png?resize=620%2C187&ssl=1)
+![](/images/CAC-By-Channel-1st-Click-Attribution-2.png)![](/images/CAC-By-Channel-1st-Click-Attribution-2.png) ![](/images/Screenshot-2022-09-23-at-1.12.53-AM.png)![](/images/Screenshot-2022-09-23-at-1.12.53-AM.png)
 
 **Insights**
 
@@ -108,7 +108,7 @@ Pros and Cons of 1st Click attribution models
 
 ### Last Click Attribution in Action
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/CAC-By-Channel-Last-Click-Attribution-2.png?resize=749%2C464&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/CAC-By-Channel-Last-Click-Attribution-2.png?resize=749%2C464&ssl=1) ![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.18.47-AM.png?resize=992%2C300&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.18.47-AM.png?resize=992%2C300&ssl=1)
+![](/images/CAC-By-Channel-Last-Click-Attribution-2.png)![](/images/CAC-By-Channel-Last-Click-Attribution-2.png) ![](/images/Screenshot-2022-09-23-at-1.18.47-AM.png)![](/images/Screenshot-2022-09-23-at-1.18.47-AM.png)
 
 **Insights**
 
@@ -128,7 +128,7 @@ Pros and Cons of Last Click attribution models
 
 What if we carry the 1st click attribution for 60 days only and post that every channel gets a 60-day window from touchpoint to transaction
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/CAC-By-Channel-60-Day-Moving-Window-for-Attribution.png?resize=749%2C464&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/CAC-By-Channel-60-Day-Moving-Window-for-Attribution.png?resize=749%2C464&ssl=1) ![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.27.56-AM.png?resize=992%2C332&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Screenshot-2022-09-23-at-1.27.56-AM.png?resize=992%2C332&ssl=1)
+![](/images/CAC-By-Channel-60-Day-Moving-Window-for-Attribution.png)![](/images/CAC-By-Channel-60-Day-Moving-Window-for-Attribution.png) ![](/images/Screenshot-2022-09-23-at-1.27.56-AM.png)![](/images/Screenshot-2022-09-23-at-1.27.56-AM.png)
 
 **Insights**
 
@@ -154,7 +154,7 @@ Pros and Cons of Time bound 1st Click attribution models
 
 We started with the same data, but we saw a major variation in the CAC across channels. This is exactly where being mindful of the attribution models being used, helps the growth marketing teams in achieving the desired CAC and scale from every channel.
 
-![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/1st-Click-Attribution-60-days-moving-window-for-attribution-and-Last-Click-Attribution.png?resize=799%2C494&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/1st-Click-Attribution-60-days-moving-window-for-attribution-and-Last-Click-Attribution.png?resize=799%2C494&ssl=1) ![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Contribution-of-Transacting-Users-by-Channel-vs-Attribution-Methodology.png?resize=799%2C494&ssl=1)![](https://web.archive.org/web/20220927030916im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Contribution-of-Transacting-Users-by-Channel-vs-Attribution-Methodology.png?resize=799%2C494&ssl=1)
+![](/images/1st-Click-Attribution-60-days-moving-window-for-attribution-and-Last-Click-Attribution.png)![](/images/1st-Click-Attribution-60-days-moving-window-for-attribution-and-Last-Click-Attribution.png) ![](/images/Contribution of Transacting Users by Channel vs Attribution Methodology.png)![](/images/Contribution of Transacting Users by Channel vs Attribution Methodology.png)
 
 * * *
 

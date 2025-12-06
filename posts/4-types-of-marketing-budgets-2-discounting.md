@@ -5,17 +5,17 @@ date: "2022-09-02T01:27:37+05:30"
 
 ## Discounting Budget
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount.png?resize=183%2C240&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount.png?resize=183%2C240&ssl=1)
+![](/images/Discount.png)![](/images/Discount.png)
 
 > Mathematically there is no difference between the discounting budget and the price reduction. However, discounting instruments allow one to price the product differently for different user segments.
 
 The most important KPI for discounting-related spending is Incremental ROI (or Incremental revenue per incremental unit cost)
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount-vs-Transactions.png?resize=284%2C271&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount-vs-Transactions.png?resize=284%2C271&ssl=1)Typical behavior of Price vs Number of Transactions. Similar behavior can be expected for conversion.
+![](/images/Discount vs Transactions.png)![](/images/Discount vs Transactions.png)Typical behavior of Price vs Number of Transactions. Similar behavior can be expected for conversion.
 
 ### **Types of Discounts that are commonly used**
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount-Group.png?resize=450%2C300&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount-Group.png?resize=450%2C300&ssl=1)Typical Discount Categories
+![](/images/Discount Group.png)![](/images/Discount Group.png)Typical Discount Categories
 
   1. **New User Discount** – Typically given to a user who is new to the platform.
   2. **Specific Item-related Discount** – Typically an additional price reduction, is given on select merchandise that is either not selling or offered for the first time
@@ -36,7 +36,7 @@ In order to set up the performance measurement, you need to identify the atomic 
   4. Discount Amount or %age
   5. Base Price
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Atomic-Unit-1.png?resize=469%2C178&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Atomic-Unit-1.png?resize=469%2C178&ssl=1)
+![](/images/Atomic Unit.png)![](/images/Atomic Unit.png)
 
 > Atomic Unit = Combination of (Objective, Segment, Supply, Discount, Base Price)
 
@@ -61,13 +61,13 @@ To measure the performance in absolute terms, typically you would want to determ
 
 Incremental ROI = (Revenue Test – Revenue Control ) / (Cost Test – Cost Control )
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/ROI-Equation.png?resize=356%2C67&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/ROI-Equation.png?resize=356%2C67&ssl=1) ![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Discount-vs-ROI-v3.png?resize=284%2C273&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/09/Discount-vs-ROI-v3.png?resize=284%2C273&ssl=1)Typical Behavior of Discounts vs Incremental Revenue
+![](/images/ROI Equation.png)![](/images/ROI Equation.png) ![](/images/Discount vs ROI v3.png)![](/images/Discount vs ROI v3.png)Typical Behavior of Discounts vs Incremental Revenue
 
 Ideally, every discount should have enough run time and iterations to find their own maxima. Next, a comparison is made across the optima of every discounting budget to identify a relative winner across multiple possible discount offers.
 
 One callout – New user discounts need to be seen in the context of future cash flows that the Customer is likely to bring in. Hence, even if new user discounts provide lower incremental ROI compared to repeat user discounts, one needs to consider the user LTV in the overall calculations.
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount-vs-ROI-v2.png?resize=284%2C283&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Discount-vs-ROI-v2.png?resize=284%2C283&ssl=1)Typical discounts compared wrt performance for one objective say revenue
+![](/images/Discount vs ROI v2.png)![](/images/Discount vs ROI v2.png)Typical discounts compared wrt performance for one objective say revenue
 
 [Reference for Confidence Calculation and Theory ](https://web.archive.org/web/20220901195746/https://www.surveysystem.com/signif.htm)if you want to know about calculating significance calculation in detail.
 
@@ -94,11 +94,11 @@ If you haven’t read my article about the Acquisition Budget – You can find i
 
 **Next, let’s look at the third category of the Marketing Budget – Reactivation+Engagement Budget. Coming Soon…**
 
-![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Marketing-Budget-Revised-4.png?resize=600%2C661&ssl=1)![](https://web.archive.org/web/20220901195746im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Marketing-Budget-Revised-4.png?resize=600%2C661&ssl=1)4 Types of Marketing Budgets
+![](/images/Marketing Budget Revised.png)![](/images/Marketing Budget Revised.png)4 Types of Marketing Budgets
 
 * * *
 
-![](https://web.archive.org/web/20220901195746im_/https://secure.gravatar.com/avatar/acc85d7a1f174c33157072e5ee15d5d8?s=96&d=mm&r=g)![](https://web.archive.org/web/20220901195746im_/https://secure.gravatar.com/avatar/acc85d7a1f174c33157072e5ee15d5d8?s=96&d=mm&r=g)
+![](/images/Burhan Photo Main-compressed.jpg)![](/images/Burhan Photo Main-compressed.jpg)
 
 burhanuddin.pithawala
 

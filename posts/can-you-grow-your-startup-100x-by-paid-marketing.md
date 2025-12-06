@@ -3,7 +3,7 @@ title: "Can You Grow Your Startup 100X by Paid Marketing?"
 date: "2022-08-03T20:14:44+05:30"
 ---
 
-![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/1_3R5YKZ7Y9lLvz7lGbCbCvQ.jpeg?resize=1024%2C682&ssl=1)![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/1_3R5YKZ7Y9lLvz7lGbCbCvQ.jpeg?resize=1024%2C682&ssl=1)How to get Growth?
+![](/images/1_3R5YKZ7Y9lLvz7lGbCbCvQ.jpeg)![](/images/1_3R5YKZ7Y9lLvz7lGbCbCvQ.jpeg)How to get Growth?
 
 What follows next is one of the biggest misconceptions of our times. Ask any average executive on what can be done to grow his/her business or startup and most likely, you will hear a version of the following:
 
@@ -32,7 +32,7 @@ Every Startup whose GO BIG plan is to buy that Billboard on the main junction, w
 
 _Here is a framework we can use for reminding ourselves on what we should be doing vs not._
 
-![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/1.png?resize=1024%2C700&ssl=1)![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/1.png?resize=1024%2C700&ssl=1)3W Framework for finding the 100X growth recipe and saving marketing dollars
+![](/images/1.png)![](/images/1.png)3W Framework for finding the 100X growth recipe and saving marketing dollars
 
 While most of the ideas we discussed, in the beginning, lie in the blue circle above, the key to scale is to make sure how much of it we can actually test and if we can do it fast and cheap.
 
@@ -42,7 +42,7 @@ While most of the ideas we discussed, in the beginning, lie in the blue circle a
 
 ## Where should you then focus if you were to acquire customers in large and large numbers?
 
-![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/2.png?resize=925%2C533&ssl=1)![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/2.png?resize=925%2C533&ssl=1)Top Down Funnel (left) vs Growth Loops (Right)
+![](/images/2.png)![](/images/2.png)Top Down Funnel (left) vs Growth Loops (Right)
 
 While we all have been brought up (read trained) to think of growth in terms of the funnel on left. But it makes absolute sense to also traverse the path reverse for your power users, especially if you are a small company. The same has been deployed by most successful companies when they were small, and before they had Big money to spend on Marketing. The same concept is explained beautifully in this article by 
 
@@ -57,7 +57,7 @@ Broadly there are only two ways to generate more business.
   * Business from new user acquisition
   * Repeat business from existing customers
 
-![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/3.png?resize=1024%2C485&ssl=1)![](https://web.archive.org/web/20220914071546im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/3.png?resize=1024%2C485&ssl=1)Typical Growth Cost Structure
+![](/images/3.png)![](/images/3.png)Typical Growth Cost Structure
 
 Therefore the cost is also spread within these 2 buckets itself.
 

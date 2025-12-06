@@ -3,7 +3,7 @@ title: "The 4 Types of Marketing Budgets and how to measure if they are working 
 date: "2022-08-28T01:44:28+05:30"
 ---
 
-![4 types of marketing budgets which are typically seen in startups](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Marketing-Budget-Revised-4.png?resize=600%2C661&ssl=1)![4 types of marketing budgets which are typically seen in startups](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Marketing-Budget-Revised-4.png?resize=600%2C661&ssl=1)Full dimensions of the marketing budget
+![4 types of marketing budgets which are typically seen in startups](/images/Marketing Budget Revised.png)![4 types of marketing budgets which are typically seen in startups](/images/Marketing Budget Revised.png)Full dimensions of the marketing budget
 
 ## Marketing Reviews in General
 
@@ -23,7 +23,7 @@ Broadly, the entire marketing budget or spends can be classified into four bucke
 
 ### Acquisition Budget
 
-![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Acquisition-Budget-graphic-1.png?resize=630%2C316&ssl=1)![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Acquisition-Budget-graphic-1.png?resize=630%2C316&ssl=1)
+![](/images/Acquisition Budget graphic.png)![](/images/Acquisition Budget graphic.png)
 
 The primary KPI of the Acquisition budget is? you guessed it right – “**Acquisition** “. The key theme here is that the budget spent on this dimension should move the primary KPI of acquiring new users on a platform. And not waste the precious budget on any of the platform’s existing users. Let’s understand this with an example. 
 
@@ -70,7 +70,7 @@ therefore actual CAC = 1000/8 = 125 bucks while the Cost remains 1000 bucks.
 
 #### What does typical acquisition channels’ performance look like in the real world?
 
-![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Scale-vs-CAC.png?resize=264%2C271&ssl=1)![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Scale-vs-CAC.png?resize=264%2C271&ssl=1)How the CAC varies with Scale for a typical Acquisition channel
+![](/images/Scale vs CAC.png)![](/images/Scale vs CAC.png)How the CAC varies with Scale for a typical Acquisition channel
 
 The performance is sub-optimal in terms of both scale and CAC as the channel begins. With improvement in channel understanding, know-how, and conversion, the scale and CAC start to improve, this is usually marked by increasing the spends on this channel. Post this the channel is expanded until it hits the plateau and there are no further users to be acquired. Typical examples when you are operating in this zone, 
 
@@ -82,7 +82,7 @@ Once you enter this zone, the channel won’t be able to scale the traditional w
 
 #### Comparison across Channels in terms of Acquisition Performance
 
-![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Channels-Comparison-1.png?resize=264%2C271&ssl=1)![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Channels-Comparison-1.png?resize=264%2C271&ssl=1)Typical Channel CAC and Scale Performance for an established category. Ex: Travel, E-Commerce ![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Channels-Comparison-2.png?resize=264%2C271&ssl=1)![](https://web.archive.org/web/20220830200634im_/https://i0.wp.com/bpitha.com/wp-content/uploads/2022/08/Channels-Comparison-2.png?resize=264%2C271&ssl=1)Typical Channel CAC and Scale Performance for a new category. Ex: Someone trying to build a niche service, say SPA for dogs, where not enough people know if it exists.
+![](/images/Channels Comparison 1.png)![](/images/Channels Comparison 1.png)Typical Channel CAC and Scale Performance for an established category. Ex: Travel, E-Commerce ![](/images/Channels Comparison 2.png)![](/images/Channels Comparison 2.png)Typical Channel CAC and Scale Performance for a new category. Ex: Someone trying to build a niche service, say SPA for dogs, where not enough people know if it exists.
 
 No matter what is the category, typically a well-run referral program will always give better CAC than traditional marketing channels. [For more on Referral Program Dos and Donts – Check out my blog.](https://web.archive.org/web/20220830200634/https://bpitha.com/3-reasons-why-referral-marketing-is-not-working-for-your-product-startup/) **The only challenge with referral programs is scale, if you can crack that, then there is no limit to how fast you can grow.**
 
@@ -92,7 +92,7 @@ Next lets look at the second category of the Marketing Budget – Discounting Bu
 
 * * *
 
-![](https://web.archive.org/web/20220830200634im_/https://secure.gravatar.com/avatar/acc85d7a1f174c33157072e5ee15d5d8?s=96&d=mm&r=g)![](https://web.archive.org/web/20220830200634im_/https://secure.gravatar.com/avatar/acc85d7a1f174c33157072e5ee15d5d8?s=96&d=mm&r=g)
+![](/images/Burhan Photo Main-compressed.jpg)![](/images/Burhan Photo Main-compressed.jpg)
 
 burhanuddin.pithawala
 
