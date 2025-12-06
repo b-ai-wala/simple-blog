@@ -22,7 +22,7 @@ In summary, Attribution is the methodology that a company follows in order to de
   2. Last Click Attribution
   3. Multi-Touch Attribution
 
-![3 types of attribution models - 1st click, last click and multi touch attribution](/images/3-attribution-models-1.png)
+![3 types of attribution models - 1st click, last click and multi touch attribution](/images/3-attribution-models.png)
 
 ## But you probably know this already. Real Attribution Challenges emerge in the real world – where things go wrong
 
@@ -88,13 +88,13 @@ Let’s look at how the funnel is doing across the 2 stages
 
 More Insights
 
-![](/images/Screenshot-2022-09-23-at-1.09.33-AM.png)
+
 
 ### 1st Click Attribution in Action
 
 We apply 1st Click attribution on the transactions and here’s what we get.
 
-![](/images/CAC-By-Channel-1st-Click-Attribution-2.png) ![](/images/Screenshot-2022-09-23-at-1.12.53-AM.png)
+![](/images/CAC-By-Channel---1st-Click-Attribution-(1).png) 
 
 **Insights**
 
@@ -108,7 +108,7 @@ Pros and Cons of 1st Click attribution models
 
 ### Last Click Attribution in Action
 
-![](/images/CAC-By-Channel-Last-Click-Attribution-2.png) ![](/images/Screenshot-2022-09-23-at-1.18.47-AM.png)
+![](/images/CAC-By-Channel---Last-Click-Attribution-(2).png) 
 
 **Insights**
 
@@ -128,7 +128,7 @@ Pros and Cons of Last Click attribution models
 
 What if we carry the 1st click attribution for 60 days only and post that every channel gets a 60-day window from touchpoint to transaction
 
-![](/images/CAC-By-Channel-60-Day-Moving-Window-for-Attribution.png) ![](/images/Screenshot-2022-09-23-at-1.27.56-AM.png)
+![](/images/CAC-By-Channel-60-Day-Moving-Window-for-Attribution.png) 
 
 **Insights**
 

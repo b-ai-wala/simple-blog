@@ -109,7 +109,7 @@ The key differences between the 2 loops lie in the fact that the Zomato loop is 
 
 **vs**
 
-![](/images/OYO-Loop-B-1.png)
+![](/images/OYO-Loop-B.png)
 
 The key differences between the 2 loops lie in the fact that the OYO loop is much faster with a lesser number of steps and offers higher predictability on the entire experience. Even if the user starts their initial journey on Google, they will not switch back to Google once they have experienced the OYO loop.
 
@@ -130,7 +130,7 @@ The key differences between the 2 loops lie in the fact that the Amazon loop is 
 
 ## **How the “Routine” Step will evolve in general for a 10x better Product** (10xP)
 
-![](/images/Users-over-time-1.png)
+![](/images/Users-over-time.png)
 
 **How this works**
 

@@ -58,7 +58,7 @@ Note: Highlighted in Orange – 110 in Jun is coming from respective previous mo
 
 ### New Trendline emerges which is a convergence to the rolling organic state + repeat usage of previously acquired paid users
 
-![](/images/Total-Transactions.png)The reduction due to switching off of certain channels has its full effect over a period of 3 months.
+![](/images/Total-Transactions-1.png)The reduction due to switching off of certain channels has its full effect over a period of 3 months.
 
 > **Thought Experiment for the reader :** How much time it will take for the business to come back to the full scale when we switch the paid channels on back again?
 > 
