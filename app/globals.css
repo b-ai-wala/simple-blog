@@ -38,7 +38,7 @@ body {
 }
 
 .profile-image {
-  border-radius: 50%;
+  border-radius: 8px;
   object-fit: cover;
   border: 3px solid #eee;
 }
@@ -69,7 +69,32 @@ header p.subtitle {
   font-size: 0.95rem;
   color: #777;
   font-style: italic;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+}
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #0066cc;
+  text-decoration: none;
+  font-size: 0.95rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.social-links a:hover {
+  background: #f5f5f5;
+  border-color: #0066cc;
+  text-decoration: none;
 }
 
 nav {
@@ -245,5 +270,10 @@ footer {
   .profile-image {
     width: 120px !important;
     height: 120px !important;
+  }
+
+  .social-links {
+    justify-content: center;
+    flex-wrap: wrap;
   }
 }
