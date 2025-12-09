@@ -1,6 +1,6 @@
 ---
 title: "The 4 Types of Marketing Budgets and how to measure if they are working for you (1/4) Acquisition Budget"
-date: "2022-08-28T01:44:28+05:30"
+date: "2022-08-28"
 ---
 
 ![4 types of marketing budgets which are typically seen in startups](/images/Marketing-Budget-Revised.png)Full dimensions of the marketing budget

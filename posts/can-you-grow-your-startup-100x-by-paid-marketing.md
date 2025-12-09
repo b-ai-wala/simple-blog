@@ -1,6 +1,6 @@
 ---
 title: "Can You Grow Your Startup 100X by Paid Marketing?"
-date: "2022-08-03T20:14:44+05:30"
+date: "2022-08-03"
 ---
 
 ![](/images/1_3R5YKZ7Y9lLvz7lGbCbCvQ.jpeg)How to get Growth?

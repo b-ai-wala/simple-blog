@@ -1,6 +1,6 @@
 ---
 title: "What every CEO wants to ask their Marketing Teams? but seldom gets an answer to (1/n)"
-date: "2022-08-07T01:49:12+05:30"
+date: "2022-08-07"
 ---
 
 ![](/images/Blake-Meme.png)CEOs looking for the real answer amidst marketing jargon

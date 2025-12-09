@@ -1,6 +1,6 @@
 ---
 title: "The 4 Types of Marketing Budgets and how to measure if they are working for you (2/4) Discounting Budget"
-date: "2022-09-02T01:27:37+05:30"
+date: "2022-09-02"
 ---
 
 ## Discounting Budget

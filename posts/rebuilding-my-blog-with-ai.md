@@ -1,6 +1,6 @@
 ---
 title: "Rebuilding My Blog in 2 Hours with Claude: A Tale of Lost Data and AI-Powered Recovery"
-date: "2024-12-07"
+date: "2025-12-07"
 ---
 
 # Rebuilding My Blog in 2 Hours with Claude: A Tale of Lost Data and AI-Powered Recovery

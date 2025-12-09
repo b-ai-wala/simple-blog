@@ -1,6 +1,6 @@
 ---
 title: "The AI Job Market Divide: What Tech Pundits Are Missing About 2030"
-date: "2024-12-09"
+date: "2025-12-09"
 ---
 
 # The AI Job Market Divide: What Tech Pundits Are Missing About 2030

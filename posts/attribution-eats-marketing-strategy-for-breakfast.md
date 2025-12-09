@@ -1,6 +1,6 @@
 ---
 title: "Attribution eats Marketing Strategy for Breakfast"
-date: "2022-09-27T08:39:08+05:30"
+date: "2022-09-27"
 ---
 
 ![](/images/Breakfast.png)

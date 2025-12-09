@@ -1,6 +1,6 @@
 ---
 title: "The 4 Types of Marketing Budgets and how to measure if they are working for you (4/4) Brand Marketing Budget"
-date: "2022-09-18T01:07:05+05:30"
+date: "2022-09-18"
 ---
 
 ![Brand Marketing ](/images/pexels-pixabay-270859.jpeg)

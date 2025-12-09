@@ -1,6 +1,6 @@
 ---
 title: "Growth Marketing “Blind Spot” — Why do we need a Customer Single View"
-date: "2022-08-10T01:52:52+05:30"
+date: "2022-08-10"
 ---
 
 * * *

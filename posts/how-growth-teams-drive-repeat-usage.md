@@ -1,6 +1,6 @@
 ---
 title: "How do ZOMATO, OYO, UBER & AMAZON growth teams drive repeat usage of their apps?"
-date: "2022-10-18T01:03:21+05:30"
+date: "2022-10-18"
 ---
 
 In 2015, Google studied the search behavior of Internet users and published an interesting article called “4 New Moments – Every Marketer Should Know”. The article categorizes the search behavior of today’s consumers into 4 major buckets and holds cues to possibly what the users intended to do when they started their search on Google.

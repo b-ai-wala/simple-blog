@@ -1,6 +1,6 @@
 ---
 title: "3 Reasons why Referral Marketing is not working for your Product / Startup"
-date: "2022-08-10T01:43:30+05:30"
+date: "2022-08-10"
 ---
 
 * * *
