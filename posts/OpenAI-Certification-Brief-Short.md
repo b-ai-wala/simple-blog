@@ -1,5 +1,9 @@
-# When Platform Owners Enter Education: Why OpenAI's Certification Play Will Devastate AI Training Companies
-**December 10, 2025**
+---
+title: "When Platform Owners Enter Education: How OpenAI's Certification Play will Impact AI Training Companies"
+date: "2025-12-10"
+---
+
+# When Platform Owners Enter Education: How OpenAI's Certification Play will Impact AI Training Companies
 
 I've been watching EdTech companies celebrate the "AI skills boom" for months now. Everyone's launching AI courses, prompt engineering bootcamps, and ChatGPT masterclasses. The pitch is always the same: "AI skills gap = massive opportunity."
 
