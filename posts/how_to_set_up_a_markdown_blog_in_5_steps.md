@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up a Markdown Blog in 5 Steps (Using AI to Speed Things Up)"
-date: 2026-01-24
+date: "2026-01-24"
 description: "A practical guide to building a markdown-based blog from scratch, including how AI tools can accelerate development and content creation."
 ---
 
